@@ -1,0 +1,4 @@
+Feeder.MainActivity, Feeder;md592e2fb66aebe5fbae907bf3eba2fc36a.MainActivity
+Feeder.MainActivity, Feeder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592e2fb66aebe5fbae907bf3eba2fc36a.MainActivity
+Feeder.MainActivity;md592e2fb66aebe5fbae907bf3eba2fc36a.MainActivity
+feeder.MainActivity;md592e2fb66aebe5fbae907bf3eba2fc36a.MainActivity
