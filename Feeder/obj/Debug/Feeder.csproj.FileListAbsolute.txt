@@ -6,7 +6,6 @@ C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\Feeder.csprojReso
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\Feeder.dll
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\Feeder.pdb
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\android\bin\Feeder.Feeder.apk
-C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\res\layout\main.xml
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\res\values\strings.xml
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\res\drawable\icon.png
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\R.cs.flag
@@ -35,5 +34,8 @@ C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\android\assets\Sy
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\res\layout\feedlist.xml
+C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\res\layout\addfeed.xml
+C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\res\layout\feeditemlist.xml
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\obj\Debug\Feeder.dll.mdb
 C:\Users\user\Documents\GitHub\MyRepos\Feeder\Feeder\bin\Debug\Feeder.dll.mdb
